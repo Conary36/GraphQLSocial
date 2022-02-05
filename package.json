@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^3.4.0",
+    "apollo-server": "^3.4.1",
     "bcryptjs": "^2.4.3",
     "graphql": "^15.6.1",
     "graphql-subscriptions": "^2.0.0",
